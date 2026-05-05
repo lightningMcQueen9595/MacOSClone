@@ -49,8 +49,8 @@ This project was built to sharpen UI/UX skills, understand the complexity behind
 <br/>
 
 ## 📸 Screenshots
-<img src="UI%20Interface.jpeg" width="800"/>
 
+![Screenshot](screenshot.png)
 
 
 
